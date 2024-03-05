@@ -15,7 +15,7 @@ Aplicação exclusiva para devs iniciantes que estão buscando sites gratuitos p
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DicasDev" src="./assets/tela.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
